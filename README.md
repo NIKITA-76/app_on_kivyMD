@@ -1,5 +1,5 @@
 
-# Project Title
+# App on KivyMD
 
 Calculator and translation of numbers from various systems (binary, octal, decimal, hexadecimal)
 
